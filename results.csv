@@ -1,0 +1,21 @@
+id,club,date,note,amount,category,bill,summary,status,reason
+C01,Coding Club,2026-10-01,"Paid Rs. 1,250 for banner printing at Copy Point. Bill attached",1250,printing,True,"Paid Rs. 1,250 for banner printing at Copy",ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C02,Coding Club,2026-10-02,Bought snacks for meeting 900. Receipt attached,900,food,True,Bought snacks for meeting 900. Receipt attached,ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C03,Dance Club,2026-10-02,Auto fare to inter-college fest 350. No bill from the auto driver,350,travel,False,Auto fare to inter-college fest 350. No bill,needs_bill,"No attached bill, receipt, invoice or ticket was found."
+C04,Literary Club,2026-10-03,"Purchased books for the reading event Rs. 1,800. Invoice attached",1800,other,True,"Purchased books for the reading event Rs. 1,800.",ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C05,Dance Club,2026-10-04,"Costumes for stage performance 2,200. Bill attached",2200,costumes,True,"Costumes for stage performance 2,200. Bill attached",ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C06,Coding Club,2026-10-05,Need money for our event,,other,False,Need money for our event,needs_more_info,No clear amount was found in the note.
+C07,Literary Club,2026-10-06,Paid Rs. 650 for poster printing. Bill attached,650,printing,True,Paid Rs. 650 for poster printing. Bill attached,ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C08,Dance Club,2026-10-07,"Sound equipment rental Rs. 6,500. Invoice attached",6500,equipment,True,"Sound equipment rental Rs. 6,500. Invoice attached",needs_approval,"Amount or same-day grouped claims exceed Rs. 5,000."
+C09,Coding Club,2026-10-08,"Bought refreshments for workshop 1,100. Receipt attached",1100,food,True,"Bought refreshments for workshop 1,100. Receipt attached",ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C10,Literary Club,2026-10-09,Travel by bus for book fair Rs. 450. Ticket attached,450,travel,True,Travel by bus for book fair Rs. 450.,ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C11,Coding Club,2026-10-10,Printing handouts Rs. 900. Bill will be sent later,900,printing,False,Printing handouts Rs. 900. Bill will be sent,needs_bill,"No attached bill, receipt, invoice or ticket was found."
+C12,Dance Club,2026-10-11,"Purchased prizes for competition Rs. 1,500. Receipt attached",1500,prizes,True,"Purchased prizes for competition Rs. 1,500. Receipt attached",ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C13,Literary Club,2026-10-12,"Paid Rs. 2,300 for printing books. Invoice attached",2300,printing,True,"Paid Rs. 2,300 for printing books. Invoice attached",over_budget,Would exceed the printing budget of Rs. 2000.00.
+C14,Coding Club,2026-10-13,Bought projector cable for Rs. 700. Bill attached,700,equipment,True,Bought projector cable for Rs. 700. Bill attached,ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C15,Dance Club,2026-10-14,"Food for practice session 1,200. Bill attached",1200,food,True,"Food for practice session 1,200. Bill attached",ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C16,Literary Club,2026-10-15,Paid Rs. 800 for auto travel. No receipt,800,travel,False,Paid Rs. 800 for auto travel. No receipt,needs_bill,"No attached bill, receipt, invoice or ticket was found."
+C17,Coding Club,2026-10-16,Bought stationery 400. Receipt attached,400,other,True,Bought stationery 400. Receipt attached,ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C18,Dance Club,2026-10-17,"Paid Rs. 1,000 for costumes. Invoice attached",1000,costumes,True,"Paid Rs. 1,000 for costumes. Invoice attached",over_budget,Would exceed the costumes budget of Rs. 3000.00.
+C19,Literary Club,2026-10-18,"Paid Rs. 1,250 for printing event posters. Bill attached",1250,printing,True,"Paid Rs. 1,250 for printing event posters. Bill",ok_to_pay,Passed the checks; treasurer must still verify and sign.
+C20,Coding Club,2026-10-19,Snacks Rs. 700. Receipt attached,700,food,True,Snacks Rs. 700. Receipt attached,ok_to_pay,Passed the checks; treasurer must still verify and sign.

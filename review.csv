@@ -1,0 +1,8 @@
+id,club,date,reason,note,amount,category,bill
+C03,Dance Club,02-10-2026,"No attached bill, receipt, invoice or ticket was found.",Auto fare to inter-college fest 350. No bill from the auto driver,350,travel,FALSE
+C06,Coding Club,05-10-2026,No clear amount was found in the note.,Need money for our event,,other,FALSE
+C08,Dance Club,07-10-2026,"Amount or same-day grouped claims exceed Rs. 5,000.","Sound equipment rental Rs. 6,500. Invoice attached",6500,equipment,TRUE
+C11,Coding Club,10-10-2026,"No attached bill, receipt, invoice or ticket was found.",Printing handouts Rs. 900. Bill will be sent later,900,printing,FALSE
+C13,Literary Club,12-10-2026,Would exceed the printing budget of Rs. 2000.00.,"Paid Rs. 2,300 for printing books. Invoice attached",2300,printing,TRUE
+C16,Literary Club,15-10-2026,"No attached bill, receipt, invoice or ticket was found.",Paid Rs. 800 for auto travel. No receipt,800,travel,FALSE
+C18,Dance Club,17-10-2026,Would exceed the costumes budget of Rs. 3000.00.,"Paid Rs. 1,000 for costumes. Invoice attached",1000,costumes,TRUE

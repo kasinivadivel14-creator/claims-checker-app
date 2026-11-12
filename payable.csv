@@ -1,0 +1,14 @@
+id,club,date,amount,category,summary,note
+C01,Coding Club,01-10-2026,1250,printing,"Paid Rs. 1,250 for banner printing at Copy","Paid Rs. 1,250 for banner printing at Copy Point. Bill attached"
+C02,Coding Club,02-10-2026,900,food,Bought snacks for meeting 900. Receipt attached,Bought snacks for meeting 900. Receipt attached
+C04,Literary Club,03-10-2026,1800,other,"Purchased books for the reading event Rs. 1,800.","Purchased books for the reading event Rs. 1,800. Invoice attached"
+C05,Dance Club,04-10-2026,2200,costumes,"Costumes for stage performance 2,200. Bill attached","Costumes for stage performance 2,200. Bill attached"
+C07,Literary Club,06-10-2026,650,printing,Paid Rs. 650 for poster printing. Bill attached,Paid Rs. 650 for poster printing. Bill attached
+C09,Coding Club,08-10-2026,1100,food,"Bought refreshments for workshop 1,100. Receipt attached","Bought refreshments for workshop 1,100. Receipt attached"
+C10,Literary Club,09-10-2026,450,travel,Travel by bus for book fair Rs. 450.,Travel by bus for book fair Rs. 450. Ticket attached
+C12,Dance Club,11-10-2026,1500,prizes,"Purchased prizes for competition Rs. 1,500. Receipt attached","Purchased prizes for competition Rs. 1,500. Receipt attached"
+C14,Coding Club,13-10-2026,700,equipment,Bought projector cable for Rs. 700. Bill attached,Bought projector cable for Rs. 700. Bill attached
+C15,Dance Club,14-10-2026,1200,food,"Food for practice session 1,200. Bill attached","Food for practice session 1,200. Bill attached"
+C17,Coding Club,16-10-2026,400,other,Bought stationery 400. Receipt attached,Bought stationery 400. Receipt attached
+C19,Literary Club,18-10-2026,1250,printing,"Paid Rs. 1,250 for printing event posters. Bill","Paid Rs. 1,250 for printing event posters. Bill attached"
+C20,Coding Club,19-10-2026,700,food,Snacks Rs. 700. Receipt attached,Snacks Rs. 700. Receipt attached
